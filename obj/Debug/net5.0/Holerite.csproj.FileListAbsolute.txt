@@ -1,0 +1,16 @@
+C:\dev\Holerite\Holerite\bin\Debug\net5.0\Holerite.exe
+C:\dev\Holerite\Holerite\bin\Debug\net5.0\Holerite.deps.json
+C:\dev\Holerite\Holerite\bin\Debug\net5.0\Holerite.runtimeconfig.json
+C:\dev\Holerite\Holerite\bin\Debug\net5.0\Holerite.runtimeconfig.dev.json
+C:\dev\Holerite\Holerite\bin\Debug\net5.0\Holerite.dll
+C:\dev\Holerite\Holerite\bin\Debug\net5.0\ref\Holerite.dll
+C:\dev\Holerite\Holerite\bin\Debug\net5.0\Holerite.pdb
+C:\dev\Holerite\Holerite\obj\Debug\net5.0\Holerite.csprojAssemblyReference.cache
+C:\dev\Holerite\Holerite\obj\Debug\net5.0\Holerite.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Holerite\Holerite\obj\Debug\net5.0\Holerite.AssemblyInfoInputs.cache
+C:\dev\Holerite\Holerite\obj\Debug\net5.0\Holerite.AssemblyInfo.cs
+C:\dev\Holerite\Holerite\obj\Debug\net5.0\Holerite.csproj.CoreCompileInputs.cache
+C:\dev\Holerite\Holerite\obj\Debug\net5.0\Holerite.dll
+C:\dev\Holerite\Holerite\obj\Debug\net5.0\ref\Holerite.dll
+C:\dev\Holerite\Holerite\obj\Debug\net5.0\Holerite.pdb
+C:\dev\Holerite\Holerite\obj\Debug\net5.0\Holerite.genruntimeconfig.cache
